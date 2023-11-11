@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @htsan007
 - 👀 I’m interested in fun projects
-- I've written previously in python, java, C, and Ocaml.
+- I've written previously in python, java, C, C++, Processing and Ocaml.
 - 📫 How to reach me : By email at harvtsa@gmail.com 
 
 <!---
